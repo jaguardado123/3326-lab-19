@@ -1,3 +1,6 @@
+// Importing the Car class
+import dealership.Car;
+
 public class Main {
     public static void main(String[] args) throws Exception {
 

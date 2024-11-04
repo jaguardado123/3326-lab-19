@@ -2,6 +2,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import dealership.Car;
+
 public class CarTest {
 	
 	@Test

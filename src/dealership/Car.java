@@ -1,3 +1,6 @@
+// Packaging the Car class
+package dealership;
+
 public class Car {
 	// Atributes
 	public String make;
