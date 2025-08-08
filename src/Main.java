@@ -9,8 +9,8 @@ public class Main {
 
         // Update this code to use your setter and getter methods instead.
         car1.make = "Ford";
-        car1.model = "Mustang";
-        car1.year = 1800; // Cars weren't invented until 1886 *shocked face*
+        car1.model = ""; // model can't be empty! *frowny face*
+        car1.year = 1800; // Cars weren't invented until 1886! *shocked face*
 
         System.out.print("Car1 Make: " + car1.make);
         System.out.print("Car1 Model: " + car1.model);
